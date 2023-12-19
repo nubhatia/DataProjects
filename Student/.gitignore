@@ -120,6 +120,7 @@ celerybeat.pid
 *.sage.py
 
 # Environments
+artifacts/
 .env
 .venv
 env/
@@ -160,5 +161,4 @@ cython_debug/
 #.idea/
 
 
-# Ignore the "artifacts" directory
-artifacts/
+
