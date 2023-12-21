@@ -1,7 +1,7 @@
 import os
 import sys
 sys.path.append("C:\\Users\\nukta\\Documents\\DataProjects\\Student")
-# print(sys.path)
+print(sys.path)
 from src.exception import CustomException
 from src.logger import logging
 
